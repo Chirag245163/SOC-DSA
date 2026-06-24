@@ -1,0 +1,44 @@
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        long long int sum=0;
+    int first = 0;
+    int max;
+    while (first < height.size() - 1){
+    max=first+1;
+        int count = 0;
+        for (int i = first; i < height.size()-1; i++)
+        {
+            if (height[i] >= height[i + 1])
+            {
+                first = i;
+                break;
+            }
+        }
+        if (first >= height.size() - 2) break;
+        //change
+        max=first+1;
+        for (int i = first+2; i < height.size(); i++)
+        {
+            if (height[i] >= height[first])  // stop at first bar >= left wall
+            {
+                //change
+                max = i;
+                break;
+            }
+            if (height[i] > height[max])
+            {
+                max=i;
+            }
+        }
+        for (int j = first + 1; j < max; j++)
+        {
+            //change
+            count += min(height[j], min(height[first], height[max]));
+            }
+        sum = sum + (min(height[first], height[max]) * (max- first - 1))-count;
+        first = max;
+    }
+    return sum;
+    }
+};
