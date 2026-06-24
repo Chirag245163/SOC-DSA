@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> leftRightDifference(vector<int>& nums) {
+        int x=0;
+        for(int i=1;i<nums.size();i++){
+            x+=nums[i];
+        }
+        vector<int> ans(nums.size());
+        ans[0]=x;
+        for(int i=1;i<nums.size();i++){
+            x-=nums[i]+nums[i-1];
+            ans[i]=abs(x);
+        }
+        return ans;
+
+    }
+};
