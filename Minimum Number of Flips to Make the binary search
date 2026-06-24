@@ -1,0 +1,37 @@
+class Solution {
+public:
+    string type_1(string s){
+        char k=s[0];
+        s.erase(0,1);
+        s=s+k;
+        return s;
+    }
+    int minFlips(string s) {
+        int count=0;
+        int max_count=0;
+        string s1="";
+        string s2="";
+        for(int i=0;i<s.size();i++){
+            if(i%2==0){
+                s1+="1";
+                s2+="0";
+            }
+            else{
+                s1+="0";
+                s2+="1";
+            }
+        }
+        for(int j=0;j<s.size();j++){
+        int count_1=0;
+        int count_2=0;
+            for(int i=0;i<s.size();i++){
+                if(s[i]==s1[i]) count_1++;
+                if(s[i]==s2[i])count_2++;
+            }
+            count=max(count_1,count_2);
+            max_count=max(max_count,count);
+            s=type_1(s);
+        }
+        return s.size()-max_count;
+    }
+};
