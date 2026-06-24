@@ -1,0 +1,15 @@
+class Solution {
+public:
+    string type_1(string s){
+            char k=s[0];
+            s.erase(0,1);
+            s=s+k;
+            return s;
+        }
+    bool find(string s){
+        for 
+    }
+    bool checkInclusion(string s1, string s2) {
+        
+    }
+};
