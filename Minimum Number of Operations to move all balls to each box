@@ -1,0 +1,25 @@
+class Solution {
+public:
+    vector<int> minOperations(string boxes) {
+        int l=boxes.size();
+        vector<int> arr(l);
+        int i=0;
+        int sum=0;
+        while(i<l){
+            sum=0;
+            for(int j=0;j<l;j++){
+                if(boxes[j]=='1'){
+                    if(j<i){
+                        sum+=i-j;
+                    }
+                    else{
+                        sum+=j-i;
+                    }
+                }
+            }
+                arr[i]=sum;
+                i++;
+        }
+        return arr;
+    }
+};
