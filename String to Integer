@@ -1,0 +1,42 @@
+class Solution {
+public:
+    int myAtoi(string s) {
+        long long num=0;
+        bool sign=true;
+        bool integer=false;
+        for(int i=0;i<s.size();i++){
+            if(integer==false){
+                if(s[i]==' '){
+                    continue;
+                }
+                if(s[i]=='+'){
+                    integer=true;
+                    continue;
+                }
+                if(s[i]=='-'){
+                    sign=false;
+                    integer=true;
+                    continue;
+                }
+            }
+            if(isdigit(s[i])){
+                integer=true;
+                num=num*10+s[i]-'0';
+                if(sign && num > INT_MAX)
+                return INT_MAX;
+                if(!sign && num > (1LL<<31))
+                return INT_MIN;
+
+            }
+            else{
+                if(sign){
+                    return num;
+                }
+                else{
+                    return num*(-1);
+                }
+            }
+        }
+            return sign ? num : -num;
+   }
+};
