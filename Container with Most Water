@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int maxArea(vector<int>& height) {
+        long long amount_1=0;
+        long long max_amount_1=0;
+        for(int i=0;i<height.size();i++){
+            for(int j=height.size()-1;j>i;j--){
+                amount_1=min(height[i],height[j])*(j-i);
+                max_amount_1=max(max_amount_1,amount_1);
+            }
+
+        }
+        return max_amount_1;
+    }
+};
