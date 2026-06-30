@@ -6,6 +6,7 @@ SOC
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -20,4 +21,8 @@ SOC
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
