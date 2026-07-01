@@ -11,11 +11,13 @@ SOC
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -25,4 +27,8 @@ SOC
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
