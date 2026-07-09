@@ -19,6 +19,7 @@ SOC
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Chirag245163/SOC-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -29,6 +30,7 @@ SOC
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Chirag245163/SOC-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ SOC
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chirag245163/SOC-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0876-middle-of-the-linked-list) |
