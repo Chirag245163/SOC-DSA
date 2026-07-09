@@ -31,4 +31,8 @@ SOC
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
