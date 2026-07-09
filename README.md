@@ -27,6 +27,7 @@ SOC
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +36,5 @@ SOC
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Chirag245163/SOC-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
