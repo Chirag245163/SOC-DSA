@@ -7,6 +7,7 @@ SOC
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -36,6 +37,7 @@ SOC
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +69,8 @@ SOC
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Chirag245163/SOC-DSA/tree/master/1291-sequential-digits) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
