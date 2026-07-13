@@ -12,6 +12,7 @@ SOC
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -25,6 +26,7 @@ SOC
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Chirag245163/SOC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -60,6 +62,7 @@ SOC
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chirag245163/SOC-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chirag245163/SOC-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -100,4 +103,8 @@ SOC
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
