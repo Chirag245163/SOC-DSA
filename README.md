@@ -8,6 +8,7 @@ SOC
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Chirag245163/SOC-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
@@ -93,6 +94,7 @@ SOC
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Chirag245163/SOC-DSA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
