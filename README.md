@@ -7,6 +7,7 @@ SOC
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -78,9 +79,14 @@ SOC
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
