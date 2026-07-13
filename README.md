@@ -9,6 +9,7 @@ SOC
 | [0027-remove-element](https://github.com/Chirag245163/SOC-DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
+| [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -89,4 +90,12 @@ SOC
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
