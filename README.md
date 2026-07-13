@@ -63,4 +63,8 @@ SOC
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chirag245163/SOC-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chirag245163/SOC-DSA/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Chirag245163/SOC-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
