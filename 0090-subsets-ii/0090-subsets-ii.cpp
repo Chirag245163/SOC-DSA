@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<vector<int>> ans;
+    vector<int> current;
+    void func(vector<int>& nums,int index){
+        ans.push_back(current);
+
+        for (int i = index; i < nums.size(); i++) {
+
+            if (i > index && nums[i] == nums[i - 1])
+                continue;
+
+            current.push_back(nums[i]);
+            func(nums, i + 1);
+            current.pop_back();
+        }
+    }
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        func(nums,0);
+        return ans;
+    }
+};
