@@ -20,6 +20,7 @@ SOC
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chirag245163/SOC-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chirag245163/SOC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Chirag245163/SOC-DSA/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -28,6 +29,7 @@ SOC
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Chirag245163/SOC-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Chirag245163/SOC-DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Chirag245163/SOC-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -93,6 +95,7 @@ SOC
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Chirag245163/SOC-DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
