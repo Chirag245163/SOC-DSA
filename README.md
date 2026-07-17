@@ -12,6 +12,7 @@ SOC
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Chirag245163/SOC-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -110,6 +111,7 @@ SOC
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
+| [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |
