@@ -1,9 +1,6 @@
 class Solution {
 public:
-    int minpath(vector<vector<int>>& grid,
-                int row,
-                int col,
-                vector<vector<int>>& dp)
+    int minpath(vector<vector<int>>& grid,int row,int col,vector<vector<int>>& dp)
     {
         int m = grid.size();
         int n = grid[0].size();
