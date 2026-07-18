@@ -57,6 +57,7 @@ SOC
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chirag245163/SOC-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Chirag245163/SOC-DSA/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +115,7 @@ SOC
 | ------- |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Chirag245163/SOC-DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Chirag245163/SOC-DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
@@ -132,4 +134,8 @@ SOC
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chirag245163/SOC-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chirag245163/SOC-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
