@@ -10,6 +10,7 @@ SOC
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Chirag245163/SOC-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Chirag245163/SOC-DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Chirag245163/SOC-DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
@@ -96,6 +97,7 @@ SOC
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chirag245163/SOC-DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Chirag245163/SOC-DSA/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +113,7 @@ SOC
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Chirag245163/SOC-DSA/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
