@@ -17,6 +17,7 @@ SOC
 | [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0518-coin-change-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -119,6 +120,7 @@ SOC
 | [0070-climbing-stairs](https://github.com/Chirag245163/SOC-DSA/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Chirag245163/SOC-DSA/tree/master/0152-maximum-product-subarray) |
+| [0518-coin-change-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
