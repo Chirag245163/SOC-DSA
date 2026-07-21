@@ -18,6 +18,7 @@ SOC
 | [0455-assign-cookies](https://github.com/Chirag245163/SOC-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Chirag245163/SOC-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Chirag245163/SOC-DSA/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chirag245163/SOC-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Chirag245163/SOC-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -142,4 +143,8 @@ SOC
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chirag245163/SOC-DSA/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chirag245163/SOC-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
